@@ -1,0 +1,5871 @@
+[
+ {
+  "inputUrlOrTerm": "iphone, samsung, pixel, xiaomi, oneplus",
+  "searchTerm": "iphone,samsung,pixel,xiaomi,oneplus",
+  "interestOverTime_timelineData": [
+   {
+    "time": "1761436800",
+    "formattedTime": "Oct 26 – Nov 1, 2025",
+    "formattedAxisTime": "Oct 26, 2025",
+    "value": [
+     46,
+     14,
+     4,
+     1,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "46",
+     "14",
+     "4",
+     "1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1762041600",
+    "formattedTime": "Nov 2 – 8, 2025",
+    "formattedAxisTime": "Nov 2, 2025",
+    "value": [
+     51,
+     17,
+     4,
+     1,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "51",
+     "17",
+     "4",
+     "1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1762646400",
+    "formattedTime": "Nov 9 – 15, 2025",
+    "formattedAxisTime": "Nov 9, 2025",
+    "value": [
+     51,
+     17,
+     4,
+     1,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "51",
+     "17",
+     "4",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "time": "1763251200",
+    "formattedTime": "Nov 16 – 22, 2025",
+    "formattedAxisTime": "Nov 16, 2025",
+    "value": [
+     53,
+     19,
+     5,
+     1,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "53",
+     "19",
+     "5",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "time": "1763856000",
+    "formattedTime": "Nov 23 – 29, 2025",
+    "formattedAxisTime": "Nov 23, 2025",
+    "value": [
+     58,
+     23,
+     5,
+     1,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "58",
+     "23",
+     "5",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "time": "1764460800",
+    "formattedTime": "Nov 30 – Dec 6, 2025",
+    "formattedAxisTime": "Nov 30, 2025",
+    "value": [
+     60,
+     20,
+     5,
+     1,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "60",
+     "20",
+     "5",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "time": "1765065600",
+    "formattedTime": "Dec 7 – 13, 2025",
+    "formattedAxisTime": "Dec 7, 2025",
+    "value": [
+     70,
+     18,
+     4,
+     1,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "70",
+     "18",
+     "4",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "time": "1765670400",
+    "formattedTime": "Dec 14 – 20, 2025",
+    "formattedAxisTime": "Dec 14, 2025",
+    "value": [
+     71,
+     17,
+     4,
+     1,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "71",
+     "17",
+     "4",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "time": "1766275200",
+    "formattedTime": "Dec 21 – 27, 2025",
+    "formattedAxisTime": "Dec 21, 2025",
+    "value": [
+     80,
+     20,
+     4,
+     1,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "80",
+     "20",
+     "4",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "time": "1766880000",
+    "formattedTime": "Dec 28, 2025 – Jan 3, 2026",
+    "formattedAxisTime": "Dec 28, 2025",
+    "value": [
+     78,
+     20,
+     4,
+     1,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "78",
+     "20",
+     "4",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "time": "1767484800",
+    "formattedTime": "Jan 4 – 10, 2026",
+    "formattedAxisTime": "Jan 4, 2026",
+    "value": [
+     74,
+     17,
+     4,
+     1,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "74",
+     "17",
+     "4",
+     "1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1768089600",
+    "formattedTime": "Jan 11 – 17, 2026",
+    "formattedAxisTime": "Jan 11, 2026",
+    "value": [
+     91,
+     17,
+     4,
+     1,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "91",
+     "17",
+     "4",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "time": "1768694400",
+    "formattedTime": "Jan 18 – 24, 2026",
+    "formattedAxisTime": "Jan 18, 2026",
+    "value": [
+     100,
+     17,
+     4,
+     1,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "100",
+     "17",
+     "4",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "time": "1769299200",
+    "formattedTime": "Jan 25 – 31, 2026",
+    "formattedAxisTime": "Jan 25, 2026",
+    "value": [
+     99,
+     18,
+     4,
+     1,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "99",
+     "18",
+     "4",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "time": "1769904000",
+    "formattedTime": "Feb 1 – 7, 2026",
+    "formattedAxisTime": "Feb 1, 2026",
+    "value": [
+     65,
+     16,
+     4,
+     1,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "65",
+     "16",
+     "4",
+     "1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1770508800",
+    "formattedTime": "Feb 8 – 14, 2026",
+    "formattedAxisTime": "Feb 8, 2026",
+    "value": [
+     65,
+     16,
+     4,
+     1,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "65",
+     "16",
+     "4",
+     "1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1771113600",
+    "formattedTime": "Feb 15 – 21, 2026",
+    "formattedAxisTime": "Feb 15, 2026",
+    "value": [
+     65,
+     18,
+     5,
+     1,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "65",
+     "18",
+     "5",
+     "1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1771718400",
+    "formattedTime": "Feb 22 – 28, 2026",
+    "formattedAxisTime": "Feb 22, 2026",
+    "value": [
+     60,
+     19,
+     5,
+     1,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "60",
+     "19",
+     "5",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "time": "1772323200",
+    "formattedTime": "Mar 1 – 7, 2026",
+    "formattedAxisTime": "Mar 1, 2026",
+    "value": [
+     54,
+     19,
+     5,
+     1,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "54",
+     "19",
+     "5",
+     "1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1772928000",
+    "formattedTime": "Mar 8 – 14, 2026",
+    "formattedAxisTime": "Mar 8, 2026",
+    "value": [
+     51,
+     18,
+     4,
+     1,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "51",
+     "18",
+     "4",
+     "1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1773532800",
+    "formattedTime": "Mar 15 – 21, 2026",
+    "formattedAxisTime": "Mar 15, 2026",
+    "value": [
+     54,
+     19,
+     4,
+     1,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "54",
+     "19",
+     "4",
+     "1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1774137600",
+    "formattedTime": "Mar 22 – 28, 2026",
+    "formattedAxisTime": "Mar 22, 2026",
+    "value": [
+     56,
+     21,
+     4,
+     1,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "56",
+     "21",
+     "4",
+     "1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1774742400",
+    "formattedTime": "Mar 29 – Apr 4, 2026",
+    "formattedAxisTime": "Mar 29, 2026",
+    "value": [
+     59,
+     26,
+     5,
+     2,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "59",
+     "26",
+     "5",
+     "2",
+     "1"
+    ]
+   },
+   {
+    "time": "1775347200",
+    "formattedTime": "Apr 5 – 11, 2026",
+    "formattedAxisTime": "Apr 5, 2026",
+    "value": [
+     69,
+     31,
+     5,
+     2,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "69",
+     "31",
+     "5",
+     "2",
+     "1"
+    ]
+   },
+   {
+    "time": "1775952000",
+    "formattedTime": "Apr 12 – 18, 2026",
+    "formattedAxisTime": "Apr 12, 2026",
+    "value": [
+     65,
+     31,
+     6,
+     2,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "65",
+     "31",
+     "6",
+     "2",
+     "1"
+    ]
+   },
+   {
+    "time": "1776556800",
+    "formattedTime": "Apr 19 – 25, 2026",
+    "formattedAxisTime": "Apr 19, 2026",
+    "value": [
+     60,
+     26,
+     5,
+     1,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "60",
+     "26",
+     "5",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "time": "1777161600",
+    "formattedTime": "Apr 26 – May 2, 2026",
+    "formattedAxisTime": "Apr 26, 2026",
+    "value": [
+     55,
+     23,
+     5,
+     1,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "55",
+     "23",
+     "5",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "time": "1777766400",
+    "formattedTime": "May 3 – 9, 2026",
+    "formattedAxisTime": "May 3, 2026",
+    "value": [
+     58,
+     24,
+     5,
+     1,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "58",
+     "24",
+     "5",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "time": "1778371200",
+    "formattedTime": "May 10 – 16, 2026",
+    "formattedAxisTime": "May 10, 2026",
+    "value": [
+     60,
+     26,
+     5,
+     1,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "60",
+     "26",
+     "5",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "time": "1778976000",
+    "formattedTime": "May 17 – 23, 2026",
+    "formattedAxisTime": "May 17, 2026",
+    "value": [
+     61,
+     25,
+     5,
+     2,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "61",
+     "25",
+     "5",
+     "2",
+     "1"
+    ]
+   },
+   {
+    "time": "1779580800",
+    "formattedTime": "May 24 – 30, 2026",
+    "formattedAxisTime": "May 24, 2026",
+    "value": [
+     61,
+     24,
+     5,
+     2,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "61",
+     "24",
+     "5",
+     "2",
+     "1"
+    ]
+   },
+   {
+    "time": "1780185600",
+    "formattedTime": "May 31 – Jun 6, 2026",
+    "formattedAxisTime": "May 31, 2026",
+    "value": [
+     62,
+     24,
+     5,
+     2,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "62",
+     "24",
+     "5",
+     "2",
+     "1"
+    ]
+   },
+   {
+    "time": "1780790400",
+    "formattedTime": "Jun 7 – 13, 2026",
+    "formattedAxisTime": "Jun 7, 2026",
+    "value": [
+     67,
+     25,
+     5,
+     2,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "67",
+     "25",
+     "5",
+     "2",
+     "1"
+    ]
+   },
+   {
+    "time": "1781395200",
+    "formattedTime": "Jun 14 – 20, 2026",
+    "formattedAxisTime": "Jun 14, 2026",
+    "value": [
+     66,
+     25,
+     5,
+     2,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "66",
+     "25",
+     "5",
+     "2",
+     "1"
+    ]
+   },
+   {
+    "time": "1782000000",
+    "formattedTime": "Jun 21 – 27, 2026",
+    "formattedAxisTime": "Jun 21, 2026",
+    "value": [
+     68,
+     28,
+     6,
+     2,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "68",
+     "28",
+     "6",
+     "2",
+     "1"
+    ]
+   },
+   {
+    "time": "1782604800",
+    "formattedTime": "Jun 28 – Jul 4, 2026",
+    "formattedAxisTime": "Jun 28, 2026",
+    "value": [
+     52,
+     22,
+     5,
+     1,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "52",
+     "22",
+     "5",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "time": "1783209600",
+    "formattedTime": "Jul 5 – 11, 2026",
+    "formattedAxisTime": "Jul 5, 2026",
+    "value": [
+     53,
+     20,
+     4,
+     1,
+     1
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "53",
+     "20",
+     "4",
+     "1",
+     "1"
+    ]
+   },
+   {
+    "time": "1783814400",
+    "formattedTime": "Jul 12 – 18, 2026",
+    "formattedAxisTime": "Jul 12, 2026",
+    "value": [
+     52,
+     17,
+     4,
+     1,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "52",
+     "17",
+     "4",
+     "1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1784419200",
+    "formattedTime": "Jul 19 – 25, 2026",
+    "formattedAxisTime": "Jul 19, 2026",
+    "value": [
+     51,
+     18,
+     4,
+     1,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "51",
+     "18",
+     "4",
+     "1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1785024000",
+    "formattedTime": "Jul 26 – Aug 1, 2026",
+    "formattedAxisTime": "Jul 26, 2026",
+    "value": [
+     54,
+     18,
+     4,
+     1,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "54",
+     "18",
+     "4",
+     "1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1785628800",
+    "formattedTime": "Aug 2 – 8, 2026",
+    "formattedAxisTime": "Aug 2, 2026",
+    "value": [
+     55,
+     18,
+     4,
+     0,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "55",
+     "18",
+     "4",
+     "<1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1786233600",
+    "formattedTime": "Aug 9 – 15, 2026",
+    "formattedAxisTime": "Aug 9, 2026",
+    "value": [
+     55,
+     18,
+     6,
+     1,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "55",
+     "18",
+     "6",
+     "1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1786838400",
+    "formattedTime": "Aug 16 – 22, 2026",
+    "formattedAxisTime": "Aug 16, 2026",
+    "value": [
+     52,
+     16,
+     5,
+     0,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "52",
+     "16",
+     "5",
+     "<1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1787443200",
+    "formattedTime": "Aug 23 – 29, 2026",
+    "formattedAxisTime": "Aug 23, 2026",
+    "value": [
+     48,
+     16,
+     5,
+     1,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "48",
+     "16",
+     "5",
+     "1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1788048000",
+    "formattedTime": "Aug 30 – Sep 5, 2026",
+    "formattedAxisTime": "Aug 30, 2026",
+    "value": [
+     54,
+     15,
+     4,
+     1,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "54",
+     "15",
+     "4",
+     "1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1788652800",
+    "formattedTime": "Sep 6 – 12, 2026",
+    "formattedAxisTime": "Sep 6, 2026",
+    "value": [
+     89,
+     17,
+     4,
+     0,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "89",
+     "17",
+     "4",
+     "<1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1789257600",
+    "formattedTime": "Sep 13 – 19, 2026",
+    "formattedAxisTime": "Sep 13, 2026",
+    "value": [
+     68,
+     15,
+     4,
+     0,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "68",
+     "15",
+     "4",
+     "<1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1789862400",
+    "formattedTime": "Sep 20 – 26, 2026",
+    "formattedAxisTime": "Sep 20, 2026",
+    "value": [
+     61,
+     14,
+     4,
+     1,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "61",
+     "14",
+     "4",
+     "1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1790467200",
+    "formattedTime": "Sep 27 – Oct 3, 2026",
+    "formattedAxisTime": "Sep 27, 2026",
+    "value": [
+     51,
+     14,
+     4,
+     1,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "51",
+     "14",
+     "4",
+     "1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1791072000",
+    "formattedTime": "Oct 4 – 10, 2026",
+    "formattedAxisTime": "Oct 4, 2026",
+    "value": [
+     49,
+     14,
+     4,
+     0,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "49",
+     "14",
+     "4",
+     "<1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1791676800",
+    "formattedTime": "Oct 11 – 17, 2026",
+    "formattedAxisTime": "Oct 11, 2026",
+    "value": [
+     52,
+     14,
+     4,
+     0,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "52",
+     "14",
+     "4",
+     "<1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1792281600",
+    "formattedTime": "Oct 18 – 24, 2026",
+    "formattedAxisTime": "Oct 18, 2026",
+    "value": [
+     55,
+     13,
+     4,
+     0,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "55",
+     "13",
+     "4",
+     "<1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1792886400",
+    "formattedTime": "Oct 25 – 31, 2026",
+    "formattedAxisTime": "Oct 25, 2026",
+    "value": [
+     52,
+     14,
+     4,
+     0,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "52",
+     "14",
+     "4",
+     "<1",
+     "<1"
+    ]
+   },
+   {
+    "time": "1793491200",
+    "formattedTime": "Nov 1 – 7, 2026",
+    "formattedAxisTime": "Nov 1, 2026",
+    "value": [
+     52,
+     17,
+     3,
+     0,
+     0
+    ],
+    "hasData": [
+     true,
+     true,
+     true,
+     true,
+     true
+    ],
+    "formattedValue": [
+     "52",
+     "17",
+     "3",
+     "<1",
+     "<1"
+    ],
+    "isPartial": true
+   }
+  ],
+  "interestOverTime_averages": [
+   61,
+   19,
+   4,
+   1,
+   0
+  ],
+  "interestBySubregion": [
+   {
+    "geoCode": "US-WY",
+    "geoName": "Wyoming",
+    "value": [
+     100
+    ],
+    "formattedValue": [
+     "100"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-KS",
+    "geoName": "Kansas",
+    "value": [
+     31
+    ],
+    "formattedValue": [
+     "31"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-DC",
+    "geoName": "District of Columbia",
+    "value": [
+     28
+    ],
+    "formattedValue": [
+     "28"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-FL",
+    "geoName": "Florida",
+    "value": [
+     27
+    ],
+    "formattedValue": [
+     "27"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-NY",
+    "geoName": "New York",
+    "value": [
+     26
+    ],
+    "formattedValue": [
+     "26"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-CA",
+    "geoName": "California",
+    "value": [
+     25
+    ],
+    "formattedValue": [
+     "25"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-WA",
+    "geoName": "Washington",
+    "value": [
+     24
+    ],
+    "formattedValue": [
+     "24"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-AZ",
+    "geoName": "Arizona",
+    "value": [
+     24
+    ],
+    "formattedValue": [
+     "24"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-CO",
+    "geoName": "Colorado",
+    "value": [
+     24
+    ],
+    "formattedValue": [
+     "24"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-LA",
+    "geoName": "Louisiana",
+    "value": [
+     23
+    ],
+    "formattedValue": [
+     "23"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-NV",
+    "geoName": "Nevada",
+    "value": [
+     23
+    ],
+    "formattedValue": [
+     "23"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-AK",
+    "geoName": "Alaska",
+    "value": [
+     23
+    ],
+    "formattedValue": [
+     "23"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-OR",
+    "geoName": "Oregon",
+    "value": [
+     23
+    ],
+    "formattedValue": [
+     "23"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-UT",
+    "geoName": "Utah",
+    "value": [
+     22
+    ],
+    "formattedValue": [
+     "22"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-TX",
+    "geoName": "Texas",
+    "value": [
+     22
+    ],
+    "formattedValue": [
+     "22"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-GA",
+    "geoName": "Georgia",
+    "value": [
+     22
+    ],
+    "formattedValue": [
+     "22"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-DE",
+    "geoName": "Delaware",
+    "value": [
+     22
+    ],
+    "formattedValue": [
+     "22"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-IL",
+    "geoName": "Illinois",
+    "value": [
+     22
+    ],
+    "formattedValue": [
+     "22"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-VA",
+    "geoName": "Virginia",
+    "value": [
+     22
+    ],
+    "formattedValue": [
+     "22"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-TN",
+    "geoName": "Tennessee",
+    "value": [
+     22
+    ],
+    "formattedValue": [
+     "22"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-NJ",
+    "geoName": "New Jersey",
+    "value": [
+     22
+    ],
+    "formattedValue": [
+     "22"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-OK",
+    "geoName": "Oklahoma",
+    "value": [
+     22
+    ],
+    "formattedValue": [
+     "22"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-IA",
+    "geoName": "Iowa",
+    "value": [
+     21
+    ],
+    "formattedValue": [
+     "21"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-ID",
+    "geoName": "Idaho",
+    "value": [
+     21
+    ],
+    "formattedValue": [
+     "21"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-HI",
+    "geoName": "Hawaii",
+    "value": [
+     21
+    ],
+    "formattedValue": [
+     "21"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-NM",
+    "geoName": "New Mexico",
+    "value": [
+     21
+    ],
+    "formattedValue": [
+     "21"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-MN",
+    "geoName": "Minnesota",
+    "value": [
+     21
+    ],
+    "formattedValue": [
+     "21"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-WI",
+    "geoName": "Wisconsin",
+    "value": [
+     21
+    ],
+    "formattedValue": [
+     "21"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-KY",
+    "geoName": "Kentucky",
+    "value": [
+     20
+    ],
+    "formattedValue": [
+     "20"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-MD",
+    "geoName": "Maryland",
+    "value": [
+     20
+    ],
+    "formattedValue": [
+     "20"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-MO",
+    "geoName": "Missouri",
+    "value": [
+     20
+    ],
+    "formattedValue": [
+     "20"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-MI",
+    "geoName": "Michigan",
+    "value": [
+     20
+    ],
+    "formattedValue": [
+     "20"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-IN",
+    "geoName": "Indiana",
+    "value": [
+     20
+    ],
+    "formattedValue": [
+     "20"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-SD",
+    "geoName": "South Dakota",
+    "value": [
+     20
+    ],
+    "formattedValue": [
+     "20"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-WV",
+    "geoName": "West Virginia",
+    "value": [
+     20
+    ],
+    "formattedValue": [
+     "20"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-NC",
+    "geoName": "North Carolina",
+    "value": [
+     20
+    ],
+    "formattedValue": [
+     "20"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-AL",
+    "geoName": "Alabama",
+    "value": [
+     20
+    ],
+    "formattedValue": [
+     "20"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-NE",
+    "geoName": "Nebraska",
+    "value": [
+     19
+    ],
+    "formattedValue": [
+     "19"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-MA",
+    "geoName": "Massachusetts",
+    "value": [
+     19
+    ],
+    "formattedValue": [
+     "19"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-OH",
+    "geoName": "Ohio",
+    "value": [
+     19
+    ],
+    "formattedValue": [
+     "19"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-SC",
+    "geoName": "South Carolina",
+    "value": [
+     19
+    ],
+    "formattedValue": [
+     "19"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-CT",
+    "geoName": "Connecticut",
+    "value": [
+     19
+    ],
+    "formattedValue": [
+     "19"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-AR",
+    "geoName": "Arkansas",
+    "value": [
+     19
+    ],
+    "formattedValue": [
+     "19"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-PA",
+    "geoName": "Pennsylvania",
+    "value": [
+     19
+    ],
+    "formattedValue": [
+     "19"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-NH",
+    "geoName": "New Hampshire",
+    "value": [
+     19
+    ],
+    "formattedValue": [
+     "19"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-ND",
+    "geoName": "North Dakota",
+    "value": [
+     19
+    ],
+    "formattedValue": [
+     "19"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-ME",
+    "geoName": "Maine",
+    "value": [
+     18
+    ],
+    "formattedValue": [
+     "18"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-MS",
+    "geoName": "Mississippi",
+    "value": [
+     18
+    ],
+    "formattedValue": [
+     "18"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-MT",
+    "geoName": "Montana",
+    "value": [
+     18
+    ],
+    "formattedValue": [
+     "18"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-VT",
+    "geoName": "Vermont",
+    "value": [
+     17
+    ],
+    "formattedValue": [
+     "17"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "US-RI",
+    "geoName": "Rhode Island",
+    "value": [
+     17
+    ],
+    "formattedValue": [
+     "17"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   }
+  ],
+  "interestByCity": [
+   {
+    "coordinates": {
+     "lat": 38.6570525,
+     "lng": -78.2261389
+    },
+    "geoName": "Sperryville",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 41.2185914,
+     "lng": -104.7902455
+    },
+    "geoName": "Ranchettes",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 34.1602832,
+     "lng": -118.6523096
+    },
+    "geoName": "Hidden Hills",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 41.7255879,
+     "lng": -87.825055
+    },
+    "geoName": "Hickory Hills",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.7325997,
+     "lng": -73.4454009
+    },
+    "geoName": "Farmingdale",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 43.0653446,
+     "lng": -76.0785332
+    },
+    "geoName": "East Syracuse",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 39.1156615,
+     "lng": -77.5636015
+    },
+    "geoName": "Leesburg",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.7237133,
+     "lng": -73.7048532
+    },
+    "geoName": "Floral Park",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.640855,
+     "lng": -117.603104
+    },
+    "geoName": "Rancho Santa Margarita",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.2000368,
+     "lng": -117.2425355
+    },
+    "geoName": "Vista",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 42.9764027,
+     "lng": -88.1084224
+    },
+    "geoName": "New Berlin",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 42.2695216,
+     "lng": -71.6161294
+    },
+    "geoName": "Westborough",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.1023319,
+     "lng": -75.2743467
+    },
+    "geoName": "Plymouth Meeting",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.6919174,
+     "lng": -74.7833145
+    },
+    "geoName": "Tewksbury",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 44.840798,
+     "lng": -93.2982799
+    },
+    "geoName": "Bloomington",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 39.6292788,
+     "lng": -75.6582628
+    },
+    "geoName": "Bear",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 47.5706548,
+     "lng": -122.2220673
+    },
+    "geoName": "Mercer Island",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 37.6597363,
+     "lng": -97.5753256
+    },
+    "geoName": "Goddard",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 29.5521737,
+     "lng": -98.269734
+    },
+    "geoName": "Schertz",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 44.9917149,
+     "lng": -93.3600034
+    },
+    "geoName": "Golden Valley",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 35.1464797,
+     "lng": -90.1845388
+    },
+    "geoName": "West Memphis",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.7895453,
+     "lng": -74.0565298
+    },
+    "geoName": "Secaucus",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 41.8525984,
+     "lng": -72.6437022
+    },
+    "geoName": "Windsor",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 47.1301417,
+     "lng": -119.2780771
+    },
+    "geoName": "Moses Lake",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.3056601,
+     "lng": -111.7495419
+    },
+    "geoName": "Vineyard",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 37.5296593,
+     "lng": -122.0402399
+    },
+    "geoName": "Newark",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 35.2451342,
+     "lng": -81.3411942
+    },
+    "geoName": "Kings Mountain",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.2170534,
+     "lng": -74.7429384
+    },
+    "geoName": "Trenton",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 25.7616798,
+     "lng": -80.1917902
+    },
+    "geoName": "Miami",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 26.2445263,
+     "lng": -80.206436
+    },
+    "geoName": "Margate",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 37.3541079,
+     "lng": -121.9552356
+    },
+    "geoName": "Santa Clara",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 34.0232431,
+     "lng": -84.3615555
+    },
+    "geoName": "Roswell",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 38.7907339,
+     "lng": -121.2357828
+    },
+    "geoName": "Rocklin",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.3042773,
+     "lng": -74.1004185
+    },
+    "geoName": "Tinton Falls",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 37.36883,
+     "lng": -122.0363496
+    },
+    "geoName": "Sunnyvale",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.7464901,
+     "lng": -74.1562551
+    },
+    "geoName": "Harrison",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 47.6739881,
+     "lng": -122.121512
+    },
+    "geoName": "Redmond",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 26.007765,
+     "lng": -80.2962555
+    },
+    "geoName": "Pembroke Pines",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 37.4688273,
+     "lng": -122.1410751
+    },
+    "geoName": "East Palo Alto",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 42.4733688,
+     "lng": -83.2218731
+    },
+    "geoName": "Southfield",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 37.3382082,
+     "lng": -121.8863286
+    },
+    "geoName": "San Jose",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.3205701,
+     "lng": -80.0870155
+    },
+    "geoName": "Upper Saint Clair",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 21.4513314,
+     "lng": -158.0152807
+    },
+    "geoName": "Mililani",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 41.6005448,
+     "lng": -93.6091064
+    },
+    "geoName": "Des Moines",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.7607793,
+     "lng": -111.8910474
+    },
+    "geoName": "Salt Lake City",
+    "value": [
+     100
+    ],
+    "formattedValue": [
+     "100"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 34.1808392,
+     "lng": -118.3089661
+    },
+    "geoName": "Burbank",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.6096698,
+     "lng": -111.9391031
+    },
+    "geoName": "West Jordan",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.7489954,
+     "lng": -84.3879824
+    },
+    "geoName": "Atlanta",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 43.1701017,
+     "lng": -77.7051443
+    },
+    "geoName": "Gates-North Gates",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 28.5383355,
+     "lng": -81.3792365
+    },
+    "geoName": "Orlando",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 39.0348317,
+     "lng": -76.9074739
+    },
+    "geoName": "Beltsville",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 34.1477849,
+     "lng": -118.1445155
+    },
+    "geoName": "Pasadena",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 42.324204,
+     "lng": -83.400211
+    },
+    "geoName": "Westland",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 26.5628537,
+     "lng": -81.9495331
+    },
+    "geoName": "Cape Coral",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 47.6062095,
+     "lng": -122.3320708
+    },
+    "geoName": "Seattle",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 34.0625106,
+     "lng": -118.1228476
+    },
+    "geoName": "Monterey Park",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.8883487,
+     "lng": -118.3089624
+    },
+    "geoName": "Gardena",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 41.5083668,
+     "lng": -72.9106202
+    },
+    "geoName": "Cheshire",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 47.4739884,
+     "lng": -122.2609558
+    },
+    "geoName": "Tukwila",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 38.7892801,
+     "lng": -77.1872036
+    },
+    "geoName": "Springfield",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.1031744,
+     "lng": -96.6705503
+    },
+    "geoName": "Allen",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 32.9265137,
+     "lng": -96.8961151
+    },
+    "geoName": "Farmers Branch",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 38.9012225,
+     "lng": -77.2652604
+    },
+    "geoName": "Vienna",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 38.8462236,
+     "lng": -77.3063733
+    },
+    "geoName": "Fairfax",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.4483771,
+     "lng": -112.0740373
+    },
+    "geoName": "Phoenix",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 28.0250005,
+     "lng": -81.7951054
+    },
+    "geoName": "Jan Phyl Village",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.735657,
+     "lng": -74.1723667
+    },
+    "geoName": "Newark",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 34.3931105,
+     "lng": -118.5907538
+    },
+    "geoName": "Stevenson Ranch",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 36.1699412,
+     "lng": -115.1398296
+    },
+    "geoName": "Las Vegas",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.7127837,
+     "lng": -74.0059413
+    },
+    "geoName": "New York",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 45.5228939,
+     "lng": -122.989827
+    },
+    "geoName": "Hillsboro",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 32.7766642,
+     "lng": -96.7969879
+    },
+    "geoName": "Dallas",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 38.9586307,
+     "lng": -77.3570028
+    },
+    "geoName": "Reston",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 32.9483335,
+     "lng": -96.7298519
+    },
+    "geoName": "Richardson",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 26.640628,
+     "lng": -81.8723084
+    },
+    "geoName": "Fort Myers",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 30.3582506,
+     "lng": -90.0656311
+    },
+    "geoName": "Mandeville",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 47.8209301,
+     "lng": -122.3151313
+    },
+    "geoName": "Lynnwood",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.9761238,
+     "lng": -117.9053395
+    },
+    "geoName": "Rowland Heights",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 39.7294319,
+     "lng": -104.8319195
+    },
+    "geoName": "Aurora",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 39.114053,
+     "lng": -94.6274636
+    },
+    "geoName": "Kansas City",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 34.0522342,
+     "lng": -118.2436849
+    },
+    "geoName": "Los Angeles",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 41.2381,
+     "lng": -85.8530469
+    },
+    "geoName": "Warsaw",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 28.7902708,
+     "lng": -81.2308972
+    },
+    "geoName": "Midway",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 39.0997265,
+     "lng": -94.5785667
+    },
+    "geoName": "Kansas City",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 38.4960187,
+     "lng": -121.4088416
+    },
+    "geoName": "Florin",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 38.7651145,
+     "lng": -76.8983059
+    },
+    "geoName": "Clinton",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 38.9536174,
+     "lng": -94.7335709
+    },
+    "geoName": "Lenexa",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 41.6411409,
+     "lng": -88.4472948
+    },
+    "geoName": "Yorkville",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.9172357,
+     "lng": -118.0120086
+    },
+    "geoName": "La Mirada",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 41.0339862,
+     "lng": -73.7629097
+    },
+    "geoName": "White Plains",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 38.8942786,
+     "lng": -77.4310992
+    },
+    "geoName": "Chantilly",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.8509333,
+     "lng": -73.9701381
+    },
+    "geoName": "Fort Lee",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.8131553,
+     "lng": -73.5673482
+    },
+    "geoName": "Brookville",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.7259336,
+     "lng": -73.5142921
+    },
+    "geoName": "Levittown",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.7812093,
+     "lng": -73.2462273
+    },
+    "geoName": "Brentwood",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.7684331,
+     "lng": -73.5251253
+    },
+    "geoName": "Hicksville",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 27.937801,
+     "lng": -82.2859247
+    },
+    "geoName": "Brandon",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 32.7554883,
+     "lng": -97.3307658
+    },
+    "geoName": "Fort Worth",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 37.7749295,
+     "lng": -122.4194155
+    },
+    "geoName": "San Francisco",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 36.1988592,
+     "lng": -115.1175013
+    },
+    "geoName": "North Las Vegas",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 45.5230622,
+     "lng": -122.6764816
+    },
+    "geoName": "Portland",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 39.613321,
+     "lng": -105.0166498
+    },
+    "geoName": "Littleton",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 43.008608,
+     "lng": -89.7384562
+    },
+    "geoName": "Mount Horeb",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 42.9026136,
+     "lng": -78.744572
+    },
+    "geoName": "Cheektowaga",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.4255104,
+     "lng": -111.9400054
+    },
+    "geoName": "Tempe",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 38.7073379,
+     "lng": -77.0230313
+    },
+    "geoName": "Fort Washington",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 46.2395793,
+     "lng": -119.1005657
+    },
+    "geoName": "Pasco",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 26.2034071,
+     "lng": -98.2300124
+    },
+    "geoName": "McAllen",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.5206608,
+     "lng": -86.80249
+    },
+    "geoName": "Birmingham",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 47.1717649,
+     "lng": -122.518458
+    },
+    "geoName": "Lakewood",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.8042674,
+     "lng": -74.012084
+    },
+    "geoName": "North Bergen",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 26.6617635,
+     "lng": -80.2683571
+    },
+    "geoName": "Wellington",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 35.4675602,
+     "lng": -97.5164276
+    },
+    "geoName": "Oklahoma City",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 27.950575,
+     "lng": -82.4571776
+    },
+    "geoName": "Tampa",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 26.1224386,
+     "lng": -80.1373174
+    },
+    "geoName": "Fort Lauderdale",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 35.2270869,
+     "lng": -80.8431267
+    },
+    "geoName": "Charlotte",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 30.4582829,
+     "lng": -91.1403196
+    },
+    "geoName": "Baton Rouge",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 42.3600825,
+     "lng": -71.0588801
+    },
+    "geoName": "Boston",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 26.6276276,
+     "lng": -80.1353896
+    },
+    "geoName": "Greenacres",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 47.1256761,
+     "lng": -122.2930075
+    },
+    "geoName": "South Hill",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 38.9338676,
+     "lng": -77.1772604
+    },
+    "geoName": "McLean",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.8816818,
+     "lng": -118.1170117
+    },
+    "geoName": "Bellflower",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 39.7392358,
+     "lng": -104.990251
+    },
+    "geoName": "Denver",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 25.9420377,
+     "lng": -80.2456045
+    },
+    "geoName": "Miami Gardens",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.5187154,
+     "lng": -74.4120953
+    },
+    "geoName": "Edison",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 47.9789848,
+     "lng": -122.2020794
+    },
+    "geoName": "Everett",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.6337136,
+     "lng": -74.4073736
+    },
+    "geoName": "Plainfield",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.4487257,
+     "lng": -84.4549262
+    },
+    "geoName": "Fayetteville",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.9166805,
+     "lng": -117.9000604
+    },
+    "geoName": "Brea",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 37.5071591,
+     "lng": -122.2605222
+    },
+    "geoName": "San Carlos",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 41.4156025,
+     "lng": -81.9234726
+    },
+    "geoName": "North Olmsted",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 34.1442616,
+     "lng": -118.0019482
+    },
+    "geoName": "Monrovia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 28.927019,
+     "lng": -82.0037608
+    },
+    "geoName": "The Villages",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.6576022,
+     "lng": -73.5831835
+    },
+    "geoName": "Freeport",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 38.6270025,
+     "lng": -90.1994042
+    },
+    "geoName": "St. Louis",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 38.9071923,
+     "lng": -77.0368707
+    },
+    "geoName": "Washington",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 34.1083449,
+     "lng": -117.2897652
+    },
+    "geoName": "San Bernardino",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 29.7604267,
+     "lng": -95.3698028
+    },
+    "geoName": "Houston",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 28.2919557,
+     "lng": -81.407571
+    },
+    "geoName": "Kissimmee",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 37.7249296,
+     "lng": -122.1560768
+    },
+    "geoName": "San Leandro",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 25.8575963,
+     "lng": -80.2781057
+    },
+    "geoName": "Hialeah",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 39.768403,
+     "lng": -86.158068
+    },
+    "geoName": "Indianapolis",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 36.8507689,
+     "lng": -76.2858726
+    },
+    "geoName": "Norfolk",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 39.2037144,
+     "lng": -76.8610462
+    },
+    "geoName": "Columbia",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 42.1487043,
+     "lng": -72.6078672
+    },
+    "geoName": "Chicopee",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 30.5082551,
+     "lng": -97.678896
+    },
+    "geoName": "Round Rock",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.9319578,
+     "lng": -117.9461734
+    },
+    "geoName": "La Habra",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 28.0105745,
+     "lng": -82.5773193
+    },
+    "geoName": "Town 'n' Country",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 47.7623204,
+     "lng": -122.2054035
+    },
+    "geoName": "Bothell",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 47.610377,
+     "lng": -122.2006786
+    },
+    "geoName": "Bellevue",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 39.9611755,
+     "lng": -82.9987942
+    },
+    "geoName": "Columbus",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 36.1626638,
+     "lng": -86.7816016
+    },
+    "geoName": "Nashville",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.8584328,
+     "lng": -74.1637553
+    },
+    "geoName": "Clifton",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 39.8083196,
+     "lng": -104.9338675
+    },
+    "geoName": "Commerce City",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 26.2517482,
+     "lng": -80.1789351
+    },
+    "geoName": "Coconut Creek",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 32.912624,
+     "lng": -96.6388833
+    },
+    "geoName": "Garland",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 42.4250964,
+     "lng": -71.066163
+    },
+    "geoName": "Malden",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 42.9956397,
+     "lng": -71.4547891
+    },
+    "geoName": "Manchester",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.7739053,
+     "lng": -117.9414477
+    },
+    "geoName": "Garden Grove",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.0198431,
+     "lng": -96.6988856
+    },
+    "geoName": "Plano",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.2859472,
+     "lng": -96.5727669
+    },
+    "geoName": "Melissa",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 37.3860517,
+     "lng": -122.0838511
+    },
+    "geoName": "Mountain View",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.7281575,
+     "lng": -74.0776417
+    },
+    "geoName": "Jersey City",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 41.1865478,
+     "lng": -73.1951767
+    },
+    "geoName": "Bridgeport",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 30.267153,
+     "lng": -97.7430608
+    },
+    "geoName": "Austin",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 30.6953657,
+     "lng": -88.0398912
+    },
+    "geoName": "Mobile",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 27.2730492,
+     "lng": -80.3582261
+    },
+    "geoName": "Port St. Lucie",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 39.2903848,
+     "lng": -76.6121893
+    },
+    "geoName": "Baltimore",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 37.6688205,
+     "lng": -122.0807964
+    },
+    "geoName": "Hayward",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.8693272,
+     "lng": -74.663464
+    },
+    "geoName": "Roxbury Township",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 38.8403909,
+     "lng": -77.4288769
+    },
+    "geoName": "Centreville",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 37.5933918,
+     "lng": -122.0438298
+    },
+    "geoName": "Union City",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 47.3223221,
+     "lng": -122.3126222
+    },
+    "geoName": "Federal Way",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 38.5815719,
+     "lng": -121.4943996
+    },
+    "geoName": "Sacramento",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 42.670782,
+     "lng": -83.0329934
+    },
+    "geoName": "Shelby charter Township",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 41.8781136,
+     "lng": -87.6297982
+    },
+    "geoName": "Chicago",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 41.2523634,
+     "lng": -95.9979883
+    },
+    "geoName": "Omaha",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 28.865264,
+     "lng": -82.0389743
+    },
+    "geoName": "Wildwood",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 42.0629915,
+     "lng": -88.1227199
+    },
+    "geoName": "Hoffman Estates",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 28.1558467,
+     "lng": -82.6212093
+    },
+    "geoName": "Keystone",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 41.9125286,
+     "lng": -88.1347927
+    },
+    "geoName": "Carol Stream",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.2362278,
+     "lng": -96.80111
+    },
+    "geoName": "Prosper",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 34.0194543,
+     "lng": -118.4911912
+    },
+    "geoName": "Santa Monica",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 38.7509488,
+     "lng": -77.4752667
+    },
+    "geoName": "Manassas",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 37.6390972,
+     "lng": -120.9968782
+    },
+    "geoName": "Modesto",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 40.7263249,
+     "lng": -74.2286435
+    },
+    "geoName": "Irvington",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 32.8140177,
+     "lng": -96.9488945
+    },
+    "geoName": "Irving",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 36.1539816,
+     "lng": -95.992775
+    },
+    "geoName": "Tulsa",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 25.4687224,
+     "lng": -80.4775569
+    },
+    "geoName": "Homestead",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.8169599,
+     "lng": -118.0372852
+    },
+    "geoName": "Cypress",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 37.5407246,
+     "lng": -77.4360481
+    },
+    "geoName": "Richmond",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 35.0853336,
+     "lng": -106.6055534
+    },
+    "geoName": "Albuquerque",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 39.2387164,
+     "lng": -77.2794288
+    },
+    "geoName": "Clarksburg",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 48.099265,
+     "lng": -122.1487495
+    },
+    "geoName": "North Marysville",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 38.0049214,
+     "lng": -121.805789
+    },
+    "geoName": "Antioch",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 25.6103836,
+     "lng": -80.4294996
+    },
+    "geoName": "Richmond West",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 26.0112014,
+     "lng": -80.1494901
+    },
+    "geoName": "Hollywood",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 26.1275862,
+     "lng": -80.2331036
+    },
+    "geoName": "Plantation",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 28.182893,
+     "lng": -82.3641751
+    },
+    "geoName": "Wesley Chapel",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "coordinates": {
+     "lat": 33.7455731,
+     "lng": -117.8678338
+    },
+    "geoName": "Santa Ana",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   }
+  ],
+  "interestByMetro": [],
+  "relatedTopics_top": [],
+  "relatedTopics_rising": [],
+  "relatedQueries_top": [
+   {
+    "query": "iphone 17",
+    "value": 100,
+    "formattedValue": "100",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+17&date=today+12-m&geo=US"
+   },
+   {
+    "query": "apple iphone",
+    "value": 76,
+    "formattedValue": "76",
+    "hasData": true,
+    "link": "/trends/explore?q=apple+iphone&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 16",
+    "value": 58,
+    "formattedValue": "58",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+16&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 17 pro",
+    "value": 53,
+    "formattedValue": "53",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+17+pro&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 15",
+    "value": 44,
+    "formattedValue": "44",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+15&date=today+12-m&geo=US"
+   },
+   {
+    "query": "new iphone",
+    "value": 44,
+    "formattedValue": "44",
+    "hasData": true,
+    "link": "/trends/explore?q=new+iphone&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 18",
+    "value": 37,
+    "formattedValue": "37",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+18&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 14",
+    "value": 36,
+    "formattedValue": "36",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+14&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 17 pro max",
+    "value": 30,
+    "formattedValue": "30",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+17+pro+max&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 13",
+    "value": 29,
+    "formattedValue": "29",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+13&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 16 pro",
+    "value": 23,
+    "formattedValue": "23",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+16+pro&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 12",
+    "value": 21,
+    "formattedValue": "21",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+12&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone air",
+    "value": 19,
+    "formattedValue": "19",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+air&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 15 pro",
+    "value": 18,
+    "formattedValue": "18",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+15+pro&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 18 pro",
+    "value": 17,
+    "formattedValue": "17",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+18+pro&date=today+12-m&geo=US"
+   },
+   {
+    "query": "find my iphone",
+    "value": 17,
+    "formattedValue": "17",
+    "hasData": true,
+    "link": "/trends/explore?q=find+my+iphone&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 11",
+    "value": 16,
+    "formattedValue": "16",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+11&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 14 pro",
+    "value": 13,
+    "formattedValue": "13",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+14+pro&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 16 pro max",
+    "value": 12,
+    "formattedValue": "12",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+16+pro+max&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone charger",
+    "value": 12,
+    "formattedValue": "12",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+charger&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone pro max 18",
+    "value": 11,
+    "formattedValue": "11",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+pro+max+18&date=today+12-m&geo=US"
+   },
+   {
+    "query": "duo iphone",
+    "value": 11,
+    "formattedValue": "11",
+    "hasData": true,
+    "link": "/trends/explore?q=duo+iphone&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone se",
+    "value": 9,
+    "formattedValue": "9",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+se&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 17 pro case",
+    "value": 9,
+    "formattedValue": "9",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+17+pro+case&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 15 pro max",
+    "value": 9,
+    "formattedValue": "9",
+    "hasData": true,
+    "link": "/trends/explore?q=iphone+15+pro+max&date=today+12-m&geo=US"
+   }
+  ],
+  "relatedQueries_rising": [
+   {
+    "query": "iphone 17e",
+    "value": 9450,
+    "formattedValue": "Breakout",
+    "link": "/trends/explore?q=iphone+17e&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 18 duo",
+    "value": 9050,
+    "formattedValue": "Breakout",
+    "link": "/trends/explore?q=iphone+18+duo&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 18 pro colors",
+    "value": 5700,
+    "formattedValue": "Breakout",
+    "link": "/trends/explore?q=iphone+18+pro+colors&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 18 colors",
+    "value": 5550,
+    "formattedValue": "Breakout",
+    "link": "/trends/explore?q=iphone+18+colors&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 18 pro case",
+    "value": 4600,
+    "formattedValue": "+4,600%",
+    "link": "/trends/explore?q=iphone+18+pro+case&date=today+12-m&geo=US"
+   },
+   {
+    "query": "duo iphone",
+    "value": 4550,
+    "formattedValue": "+4,550%",
+    "link": "/trends/explore?q=duo+iphone&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 18 pro max colors",
+    "value": 4450,
+    "formattedValue": "+4,450%",
+    "link": "/trends/explore?q=iphone+18+pro+max+colors&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone duo case",
+    "value": 4300,
+    "formattedValue": "+4,300%",
+    "link": "/trends/explore?q=iphone+duo+case&date=today+12-m&geo=US"
+   },
+   {
+    "query": "apple iphone duo",
+    "value": 4150,
+    "formattedValue": "+4,150%",
+    "link": "/trends/explore?q=apple+iphone+duo&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 18 pro max case",
+    "value": 3850,
+    "formattedValue": "+3,850%",
+    "link": "/trends/explore?q=iphone+18+pro+max+case&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone duo release date",
+    "value": 3750,
+    "formattedValue": "+3,750%",
+    "link": "/trends/explore?q=iphone+duo+release+date&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone pro max 18",
+    "value": 3650,
+    "formattedValue": "+3,650%",
+    "link": "/trends/explore?q=iphone+pro+max+18&date=today+12-m&geo=US"
+   },
+   {
+    "query": "apple iphone 18 pro max",
+    "value": 3400,
+    "formattedValue": "+3,400%",
+    "link": "/trends/explore?q=apple+iphone+18+pro+max&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 18 pro",
+    "value": 3300,
+    "formattedValue": "+3,300%",
+    "link": "/trends/explore?q=iphone+18+pro&date=today+12-m&geo=US"
+   },
+   {
+    "query": "burgundy iphone 18",
+    "value": 3150,
+    "formattedValue": "+3,150%",
+    "link": "/trends/explore?q=burgundy+iphone+18&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 18 pro vs pro max",
+    "value": 2200,
+    "formattedValue": "+2,200%",
+    "link": "/trends/explore?q=iphone+18+pro+vs+pro+max&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone duo pre order",
+    "value": 1950,
+    "formattedValue": "+1,950%",
+    "link": "/trends/explore?q=iphone+duo+pre+order&date=today+12-m&geo=US"
+   },
+   {
+    "query": "verizon iphone duo",
+    "value": 1950,
+    "formattedValue": "+1,950%",
+    "link": "/trends/explore?q=verizon+iphone+duo&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone duo price",
+    "value": 1850,
+    "formattedValue": "+1,850%",
+    "link": "/trends/explore?q=iphone+duo+price&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 18 pro max price",
+    "value": 1750,
+    "formattedValue": "+1,750%",
+    "link": "/trends/explore?q=iphone+18+pro+max+price&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone 18 release date",
+    "value": 1700,
+    "formattedValue": "+1,700%",
+    "link": "/trends/explore?q=iphone+18+release+date&date=today+12-m&geo=US"
+   },
+   {
+    "query": "tmobile iphone duo",
+    "value": 1200,
+    "formattedValue": "+1,200%",
+    "link": "/trends/explore?q=tmobile+iphone+duo&date=today+12-m&geo=US"
+   },
+   {
+    "query": "iphone duo cases",
+    "value": 1150,
+    "formattedValue": "+1,150%",
+    "link": "/trends/explore?q=iphone+duo+cases&date=today+12-m&geo=US"
+   },
+   {
+    "query": "new iphone duo",
+    "value": 1100,
+    "formattedValue": "+1,100%",
+    "link": "/trends/explore?q=new+iphone+duo&date=today+12-m&geo=US"
+   },
+   {
+    "query": "new iphone 18",
+    "value": 1000,
+    "formattedValue": "+1,000%",
+    "link": "/trends/explore?q=new+iphone+18&date=today+12-m&geo=US"
+   }
+  ],
+  "interestBy": []
+ }
+]
