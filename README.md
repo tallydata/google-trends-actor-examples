@@ -2,7 +2,7 @@
 
 Examples for `tallydata/google-trends-interest-over-time`, a Google Trends Actor on Apify, and the test that checks its output against the official `apify/google-trends-scraper`.
 
-**Status: the Actor is not published yet.** The examples will work once it is. The compatibility test has not been run against it, so nothing here claims compatibility yet.
+The Actor is published on the Apify Store: https://apify.com/tallydata/google-trends-interest-over-time ("Google Trends Scraper: Compare Keywords Over Time"). Its output matched the official Actor's golden outputs (same keys, order and types) in the pre-release check; Google samples its data, so values differ slightly between runs.
 
 Unofficial. Not affiliated with or endorsed by Google.
 
